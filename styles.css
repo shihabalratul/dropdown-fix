@@ -1,0 +1,27 @@
+.options {
+  list-style-type: none;
+}
+
+.option {
+  display: inline;
+  margin: 2px 5px;
+}
+
+.option:hover {
+  color: darkgrey;
+  cursor: pointer;
+}
+
+body {
+  font-family: roboto;
+}
+
+/* #hidemenu {
+  display: none;
+} */
+.hide {
+  display: none;
+}
+/* .showmenu {
+  display: block;
+} */
